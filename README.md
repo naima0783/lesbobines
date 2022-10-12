@@ -5,7 +5,7 @@ Sebastien, Naima et Lyphanes
 Team Possible car tout est possible.
 
 ## Description du projet
-Ce project consiste à concevoire un site vitrine pour Margot, couturière....
+Ce project consiste à concevoire un site vitrine pour Margaux, couturière....
 
 ## Maquette 
 
